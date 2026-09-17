@@ -1,0 +1,5 @@
+R201,AI Lab 1,Lab,true
+R202,4K Projector,Equipment,true
+R203,Seminar Hall A,Hall,true
+R301,Robotics Lab,Lab,true
+TR2,Test Hall,Hall,false
